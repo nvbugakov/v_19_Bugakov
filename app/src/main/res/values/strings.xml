@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">bugakov_v_19</string>
+    <string name="backgr">TODO</string>
+    <string name="author">Авторизация</string>
+    <string name="namepolz">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="next">Вход</string>
+    <string name="upback">TODO</string>
+    <string name="photo">Фото</string>
+    <string name="Vies">Обзор</string>
+    <string name="album">Альбомы</string>
+    <string name="sky">TODO</string>
+    <string name="family">TODO</string>
+    <string name="city">TODO</string>
+    <string name="skyext">Небо</string>
+    <string name="citytext">Город</string>
+    <string name="familytext">Семья</string>
+    <string name="camera">Camera</string>
+</resources>
